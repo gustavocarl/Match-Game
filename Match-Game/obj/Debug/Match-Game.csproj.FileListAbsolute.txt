@@ -1,0 +1,15 @@
+C:\TI\Projects\Match-Game\Match-Game\bin\Debug\Match-Game.exe.config
+C:\TI\Projects\Match-Game\Match-Game\bin\Debug\Match-Game.exe
+C:\TI\Projects\Match-Game\Match-Game\bin\Debug\Match-Game.pdb
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match-Game.csproj.AssemblyReference.cache
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\MainWindow.g.cs
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\App.g.cs
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match-Game_MarkupCompile.cache
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match-Game_MarkupCompile.lref
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\MainWindow.baml
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match-Game.g.resources
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match_Game.Properties.Resources.resources
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match-Game.csproj.GenerateResource.cache
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match-Game.csproj.CoreCompileInputs.cache
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match-Game.exe
+C:\TI\Projects\Match-Game\Match-Game\obj\Debug\Match-Game.pdb
