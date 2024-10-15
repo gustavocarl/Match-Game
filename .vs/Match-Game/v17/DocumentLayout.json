@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\TI\\Projects\\Match-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F76D7D4-9D37-4703-8B89-EDCC9CD14D58}|Match-Game\\Match-Game.csproj|C:\\TI\\Projects\\Match-Game\\match-game\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F76D7D4-9D37-4703-8B89-EDCC9CD14D58}|Match-Game\\Match-Game.csproj|c:\\ti\\projects\\match-game\\match-game\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F76D7D4-9D37-4703-8B89-EDCC9CD14D58}|Match-Game\\Match-Game.csproj|solutionrelative:match-game\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F76D7D4-9D37-4703-8B89-EDCC9CD14D58}|Match-Game\\Match-Game.csproj|c:\\ti\\projects\\match-game\\match-game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0F76D7D4-9D37-4703-8B89-EDCC9CD14D58}|Match-Game\\Match-Game.csproj|C:\\TI\\Projects\\Match-Game\\match-game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0F76D7D4-9D37-4703-8B89-EDCC9CD14D58}|Match-Game\\Match-Game.csproj|solutionrelative:match-game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\TI\\Projects\\Match-Game\\Match-Game\\MainWindow.xaml",
               "RelativeToolTip": "Match-Game\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-14T18:02:06.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T18:02:06.543Z"
             }
           ]
         }
